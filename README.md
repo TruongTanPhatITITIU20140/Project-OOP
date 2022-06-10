@@ -10,10 +10,10 @@
 
 ###Project idea : Snake Game
 
-##Relevant reference links: 
+**Relevant reference links:** 
 TruongTanPhatITITIU20140/Project-OOP: This is the final file (github.com)
 
-###Motivation: 
+### Motivation:
 When we were children, physical-button phone is very popular and all of our team members have already play game in that kind of phone. And we agree together that Snake Game is our favorite game, it's easy to play and very addictive. So we came up with this project, which is building and playing our childhood game. 
 
 ##This project has referrent link: 
