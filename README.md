@@ -32,7 +32,11 @@ we came to the cafe shop and work together.
 
 ### Language: Java
 
-**Framework:**
+### Framework:
 +JFrame 
 +JPanel
++AWS
+
+### UML Diagram:
+![OOP_Project](https://user-images.githubusercontent.com/91873890/173098932-6acf7426-cd9f-4383-9c77-d82c99e6da25.jpg)
 
