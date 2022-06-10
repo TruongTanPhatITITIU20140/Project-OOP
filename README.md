@@ -1,20 +1,15 @@
 # Project-OOP
 ## Report
   
-### Team name
+### meow meow
 
-meow meow
-
-### Team members 
-  
-  Trương Tấn Phát - ITITIU20140
-  
-  Nguyễn Hạo Nhiên - ITITWE20004
-  
-  Nguyễn Nhật Trường - ITITIU20137
-  
-  Trương Đức Duy Khang - ITITIU20227
-
+### Team members & Task allocation:
+| Order |                   Name                   |     ID      |              Task              | Contribution |
+| :---: |:----------------------------------------:|:-----------:|:------------------------------:|:------------:|
+|   1   |           Trương Tấn Phát         | ITITIU20140 | Readme, GamePannel, Github manager |     20%      |
+|   2   |               Nguyễn Hạo Nhiên              | ITITWE20004 | Adding sounds & graphics, designing score system, UML  |     20%      |
+|   3   |             Nguyễn Nhật Trường           | ITITIU20137 | Designing score system, ArrowKey, Device Information, powerpoint  |     20%      |
+|   4   |           Trương Đức Duy Khang            | ITITIU20227 |          Debugging, Testing, Menu Bar, UML           |     20%      |
 
 ### Relevant reference links:
 
@@ -26,9 +21,6 @@ When we were children, physical-button phone is very popular and all of our team
 
 ### This project has referrent link:
 `https://youtu.be/bI6e6qjJ8JQ`
-
-### Task allocation:
-we came to the cafe shop and work together.
 
 ### Language: Java
 
