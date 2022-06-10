@@ -1,0 +1,48 @@
+This is list updating version:
+v3:
+fix snake tail
+add background slide show effect by time in Frame
+insert icon side by side Menu items
+save high score archived
+using root element to reuse variable
+factor code reuse and update UI/UX
+v4
+using DISPOSE_ON_CLOSE to close other frames but not current frame
+customing file systems folder
+create write and read file feature
+add save score history datas feature
+using observe partten to manager objects
+continue to write the score data without losing the old data in the file
+v5:
+update interface abstract class
+add enum arrow keys
+update root variables for button labels and musics
+fix margin column format for write data file
+progress class testing
+v6:
+fix format data before write new score
+add download score list feature
+fix bugs duplicate content before read file
+refactor read file shortly function
+add copy content to clipboard feature
+open warning panel before delete score history
+draw snake's eyes
+fix level display
+v7:
+add fork project feature
+add about project description
+fix bomb random position
+fix dimension of read file frame
+v8:
+change absolute download path to relative download path
+get local IP address in record
+display arrow keys pressed count
+change visible to get function with set/get in OOP
+fix bomb's bound
+add device name information
+small change description history
+add bomb effect sound and background theme music
+Next version:
+draw bomb image(in process)
+replace circle by apple image (in process)
+copy license enable (in process)

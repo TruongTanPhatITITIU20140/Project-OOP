@@ -1,0 +1,5 @@
+* Cài Java package, JRE, JDK,
+* Giải nén -> mở project trong eclipse -> run
+* Khi download file lịch sử điểm, check tại thư mục download ở ổ C
+* Cài JUnit Test cho Java trước khi run test case
+
