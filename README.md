@@ -54,7 +54,7 @@ When we were young, phones with physical buttons are very popular and all of our
 ### Top features:
 - Easy to play and install.
 - Awesome sounds and images.
-- Three levels to choose (Easy, Medium, Difficult).
+- Three levels to choose (Easy, Medium and Difficult).
 - Have file scores which include device name and local IP address.
 - All the file were written in SOLID .
 
