@@ -22,7 +22,11 @@
 When we were young, phones with physical buttons are very popular and all of our team members played a few games on that kind of phone. Thus, we agreed with each other that Snake Game is one of our favorite games because it is easy to play and it is very addictive. Therefore, we came up with this project in which we build and play our childhood game. 
 
 ### Challenges:
-- 
+- Making the snake move
+- Setting the "Game Over" conditions
+- Testing multiple times just to check the background if it fits properly
+- Drawing apples and bombs
+- History data (results from the previous games which include date, time, desktop models)
 
 ### Language: Java
 
