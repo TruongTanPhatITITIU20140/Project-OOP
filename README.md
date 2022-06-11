@@ -22,11 +22,11 @@
 When we were young, phones with physical buttons are very popular and all of our team members played a few games on that kind of phone. Thus, we agreed with each other that Snake Game is one of our favorite games because it is easy to play and it is very addictive. Therefore, we came up with this project in which we build and play our childhood game. 
 
 ### Challenges:
-- Making the snake move
-- Setting the "Game Over" conditions
-- Testing multiple times just to check the background if it fits properly
-- Drawing apples and bombs
-- History data (results from the previous games which include date, time, desktop models)
+- Making the snake move.
+- Setting the "Game Over" conditions.
+- Testing multiple times just to check the background if it fits properly.
+- Drawing apples and bombs.
+- History data (results from the previous games which include date, time, desktop models).
 
 ### Language: Java
 
@@ -39,7 +39,7 @@ When we were young, phones with physical buttons are very popular and all of our
 ![OOP_Project](https://user-images.githubusercontent.com/91873890/173098932-6acf7426-cd9f-4383-9c77-d82c99e6da25.jpg)
 
 ### How to install:
-* Install Java package, JRE, JDK.
+* Install Java packages, JRE, JDK.
 * Unzip the file -> open project in Eclipse -> run in Main file.
 * When download file history score, it is in the download folder in C.
 * Install JUnit Test for Java before run test case.
@@ -47,7 +47,7 @@ When we were young, phones with physical buttons are very popular and all of our
 ### How to play:
 - Go to File -> New Game and choose the difficulty.
 - Use the arrow keys (W, A, S and D) to move the snake around the screen and collect apples and avoid bombs.
-- Each apple worths one point and increases the snake's length by one unit.
+- Each apple worths one point and increases the snake's length by one.
 - Beware: Bombs will decrease your points by one and the snake's length by one.
 - The game will end when the snake moves out of the screen or it touches itself. 
 
@@ -55,8 +55,8 @@ When we were young, phones with physical buttons are very popular and all of our
 - Easy to play and install.
 - Awesome sounds and images.
 - Three levels to choose (Easy, Medium, Difficult).
-- Have file scores which include device name and local IP address
-- All the file were written in SOLID 
+- Have file scores which include device name and local IP address.
+- All the file were written in SOLID .
 
 ### Reference:
 Bro Code. (2020, July 20). _Java snake game 🐍_  [Video]. Youtube. `https://youtu.be/bI6e6qjJ8JQ`
