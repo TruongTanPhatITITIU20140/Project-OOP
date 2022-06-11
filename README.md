@@ -1,5 +1,7 @@
 # Project-OOP
 ## Report
+
+  ![gamePlay2](https://user-images.githubusercontent.com/91873890/173171525-a2b8a972-d750-4402-a778-54a522a13603.png)
   
 ### meow meow
 
@@ -36,7 +38,11 @@ When we were children, physical-button phone is very popular and all of our team
 * Install JUnit Test for Java before run test case
 
 ### Top feature:
-
+- Easy to play and install
+- Attracting sound and image
+- Three levels to choose
+- Have file scores which include device name and local IP address.
+- All the file were write in SOLID 
 
 ### This project has referrent link:
 `https://youtu.be/bI6e6qjJ8JQ`
