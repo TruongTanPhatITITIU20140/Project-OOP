@@ -8,10 +8,10 @@
 ### Team members & Task allocation:
 | Order |                   Name                   |     ID      |              Task              | Contribution |
 | :---: |:----------------------------------------:|:-----------:|:------------------------------:|:------------:|
-|   1   |           Trương Tấn Phát         | ITITIU20140 | Readme, GamePannel, Github manager |     20%      |
-|   2   |               Nguyễn Hạo Nhiên              | ITITWE20004 | Adding sounds & graphics, designing score system, UML  |     20%      |
-|   3   |             Nguyễn Nhật Trường           | ITITIU20137 | Designing score system, ArrowKey, Device Information, powerpoint  |     20%      |
-|   4   |           Trương Đức Duy Khang            | ITITIU20227 |          Debugging, Testing, Menu Bar, UML           |     20%      |
+|   1   |           Trương Tấn Phát         | ITITIU20140 | Readme, GamePannel, Github manager |     25%      |
+|   2   |               Nguyễn Hạo Nhiên              | ITITWE20004 | Adding sounds & graphics, designing score system, UML  |     25%      |
+|   3   |             Nguyễn Nhật Trường           | ITITIU20137 | Designing score system, ArrowKey, Device Information, powerpoint  |     25%      |
+|   4   |           Trương Đức Duy Khang            | ITITIU20227 |          Debugging, Testing, Menu Bar, UML           |     25%      |
 
 ### Relevant reference links:
 
