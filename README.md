@@ -45,7 +45,7 @@ When we were young, phones with physical buttons are very popular and all of our
 * Install JUnit Test for Java before run test case.
 
 ### How to play:
-- Go to File -> N
+- Go to File -> New Game and choose the difficulty.
 - Use the arrow keys (W, A, S and D) to move the snake around the screen and collect apples and avoid bombs.
 - Each apple worths one point and increases the snake's length by one unit.
 - Beware: Bombs will decrease your points by one and the snake's length by one.
