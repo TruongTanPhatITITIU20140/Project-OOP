@@ -3,7 +3,7 @@
 
   ![gamePlay2](https://user-images.githubusercontent.com/91873890/173171525-a2b8a972-d750-4402-a778-54a522a13603.png)
   
-### meow meow
+### Team name: meow meow
 
 ### Team members & Task allocation:
 | Order |                   Name                   |     ID      |              Task              | Contribution |
@@ -19,30 +19,40 @@
 
 ### Motivation:
 
-When we were children, physical-button phone is very popular and all of our team members have already play game in that kind of phone. And we agree together that Snake Game is our favorite game, it's easy to play and very addictive. So we came up with this project, which is building and playing our childhood game. 
+When we were young, phones with physical buttons are very popular and all of our team members played a few games on that kind of phone. Thus, we agreed with each other that Snake Game is one of our favorite games because it is easy to play and it is very addictive. Therefore, we came up with this project in which we build and play our childhood game. 
+
+### Challenges:
+- 
 
 ### Language: Java
 
 ### Framework:
-+JFrame 
-+JPanel
-+AWS
+- JFrame 
+- JPanel
+- AWS
 
 ### UML Diagram:
 ![OOP_Project](https://user-images.githubusercontent.com/91873890/173098932-6acf7426-cd9f-4383-9c77-d82c99e6da25.jpg)
 
+### How to install:
+* Install Java package, JRE, JDK.
+* Unzip the file -> open project in Eclipse -> run in Main file.
+* When download file history score, it is in the download folder in C.
+* Install JUnit Test for Java before run test case.
+
 ### How to play:
-* Install Java package, JRE, JDK,
-* Unzip the file -> open project in Eclipse -> run in Main file
-* When download file history score, it is in the download folder in C
-* Install JUnit Test for Java before run test case
+- Go to File -> N
+- Use the arrow keys (W, A, S and D) to move the snake around the screen and collect apples and avoid bombs.
+- Each apple worths one point and increases the snake's length by one unit.
+- Beware: Bombs will decrease your points by one and the snake's length by one.
+- The game will end when the snake moves out of the screen or it touches itself. 
 
-### Top feature:
-- Easy to play and install
-- Attracting sound and image
-- Three levels to choose
-- Have file scores which include device name and local IP address.
-- All the file were write in SOLID 
+### Top features:
+- Easy to play and install.
+- Awesome sounds and images.
+- Three levels to choose (Easy, Medium, Difficult).
+- Have file scores which include device name and local IP address
+- All the file were written in SOLID 
 
-### This project has referrent link:
-`https://youtu.be/bI6e6qjJ8JQ`
+### Reference:
+Bro Code. (2020, July 20). _Java snake game 🐍_  [Video]. Youtube. `https://youtu.be/bI6e6qjJ8JQ`
